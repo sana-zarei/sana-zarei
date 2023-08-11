@@ -9,7 +9,7 @@
 I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran. 
 
 - 🔭 As a Back-End developer, I create web applications.
-- ⚡ In my free time, I solve problems on [nzrmohammad](<https://nzrmohammad.pythonanywhere.com/> "nzrmohammad") and read tech articles.
+- ⚡ In my free time, I solve problems on [sana-zarei](<https://sanazarei.pythonanywhere.com/> "sana-zarei") and read tech articles.
 
 ---
 
