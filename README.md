@@ -136,7 +136,7 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My VSCode Configurations [Here](https://gist.github.com/nzrmohammad/039b1dc5a7cdcb007ab3691814d53130).
+	⚛️ Checkout My VSCode Configurations [Here](https://gist.github.com/sana-zarei/039b1dc5a7cdcb007ab3691814d53130).
 	</ul>	
 </details>
 
