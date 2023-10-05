@@ -69,6 +69,7 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### 🧰 Frameworks and Libraries :
 ![Django](https://img.shields.io/badge/Django-21759B?logo=Django&logoColor=white&style=for-the-badge)
 ![DRF](https://img.shields.io/badge/Django&nbsp;Rest&nbsp;Framework-06B6D4?logo=DRFlogoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6332F6?logo=Bootstrap&logoColor=white&style=for-the-badge)
 
 ### 💻 Software and Tools:
