@@ -1,26 +1,25 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Sana&nbsp;Zarei;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Sana&nbsp;Zarei;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30" alt="Welcome banner">
 </h1>
 
-### 👨🏻‍🦱 About Me 
+### 👨🏻‍🦱 About Me 
 ![](https://visitor-badge.glitch.me/badge?page_id=sana-zarei.sana-zarei&style=flat-square&color=0088cc)
 
-I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran. 
+I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer gif"> from Iran. 
 
 - 🔭 As a Back-End developer, I create web applications.
-- ⚡ In my free time, I solve problems on [sana-zarei](<https://sanazarei.pythonanywhere.com/> "sana-zarei") and read tech articles.
+- ⚡ In my free time, I solve problems on [sana-zarei](https://sanazarei.pythonanywhere.com/ "sana-zarei") and read tech articles.
 
 ---
 
-### 📌 My Social
+### 📌 My Social
 
 <div align="center">
     
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/sana-zarei)
 [![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-F58025?logo=StackOverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/#)
-[![WebSite](https://img.shields.io/badge/WebSite-21759B?logo=WordPress&logoColor=white&style=for-the-badge)](#)
+[![WebSite](https://img.shields.io/badge/Website-21759B?logo=WordPress&logoColor=white&style=for-the-badge)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:sanazarei79@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/#)
@@ -29,29 +28,26 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### 📌 Solve a Coding Question
+### 📌 Solve a Coding Question
 
 <div align="center">
     
 [![hackerrank](https://img.shields.io/badge/Hackerrank-21759B?logo=Hackerrank&logoColor=white&style=for-the-badge)](www.hackerrank.com/sana-zarei)
 [![Leetcode](https://img.shields.io/badge/Leetcode-181717?logo=Leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/sana-zarei/)
-[![Hackerearth](https://img.shields.io/badge/Hackerearth-F58025?logo=Hackerearth&logoColor=white&style=for-the-badge)]([https://stackoverflow.com/#](https://www.hackerearth.com/@sana-zarei))
-
+[![Hackerearth](https://img.shields.io/badge/Hackerearth-F58025?logo=Hackerearth&logoColor=white&style=for-the-badge)](https://www.hackerearth.com/@sana-zarei)
     
 </div>
 
 ---
 
-
-
 ### 📈 My Best Repo :
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/sana-zarei/Personal-Restaurant" title="Personal-Restaurant">
-  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=sana-zarei&repo=Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff">
+  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=sana-zarei&repo=Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff" alt="Personal-Restaurant Repo">
   </a>
     <a align="right" href="https://github.com/sana-zarei/Personal-Restaurant" title="Personal-Restaurant">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=sana-zarei&repo=Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff">
+   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=sana-zarei&repo=Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff" alt="Personal-Restaurant Repo">
   </a>
 </div>
 
@@ -84,20 +80,20 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### Projects and Dev Stuffs:
 
-<details>	
+<details>    
   <summary><b>⚡Github Stats</b></summary>
-	<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" alt="Coding gif">
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sana-zarei&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-zarei&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sana-zarei&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-zarei&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </details>
 
-<details>	
+<details>    
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sana-zarei&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sana-zarei&hide_border=true" alt="GitHub Streaks" />
 </details>
 
 <details>
@@ -106,7 +102,7 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <br />
   <table>
     <thead align="center">
-      <tr border: none;>
+      <tr>
         <td><b>💻 Projects</b></td>
         <td><b>🌟 Stars</b></td>
         <td><b>🍴 Forks</b></td>
@@ -128,8 +124,8 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </table>
   <br />
 </details>
- 
-<details>	
+
+<details>    
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -140,7 +136,7 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/nzrmohammad/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	⚛️ Checkout My VSCode Configurations [Here](https://gist.github.com/nzrmohammad/039b1dc5a7cdcb007ab3691814d53130).
 	</ul>	
 </details>
 
