@@ -63,8 +63,6 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
-
 ---
 
 ### 👨‍💻 Programming and Markup Language :
