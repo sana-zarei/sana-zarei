@@ -54,13 +54,12 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 📈 My Best Repo :
 
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/sana-zarei/Personal-Restaurant" title="Personal-Restaurant">
-  <img align="left" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=sana-zarei&repo=Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff" alt="Personal-Restaurant Repo">
+<div align="center">
+  <a href="https://github.com/sana-zarei/Personal-Restaurant" title="Personal-Restaurant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sana-zarei&repo=Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff" alt="Personal-Restaurant Repo" width="400" height="140" />
   </a>
-    <a align="right" href="https://github.com/sana-zarei/Personal-Restaurant" title="Personal-Restaurant">
-   <img align="right" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=sana-zarei&repo=Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff" alt="Personal-Restaurant Repo">
+  <a href="https://github.com/sana-zarei/Personal-Restaurant" title="Personal-Restaurant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sana-zarei&repo=Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff" alt="Personal-Restaurant Repo" width="400" height="140" />
   </a>
 </div>
 
