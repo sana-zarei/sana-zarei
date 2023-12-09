@@ -9,7 +9,6 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🔭 As a Back-End developer, I create web applications.
 - ⚡ In my free time, I solve problems on [sana-zarei](https://sanazarei.pythonanywhere.com/ "sana-zarei") and read tech articles.
-
 ---
 <table align="center">
   <tr>
