@@ -11,11 +11,19 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - ⚡ In my free time, I solve problems on [sana-zarei](https://sanazarei.pythonanywhere.com/ "sana-zarei") and read tech articles.
 
 ---
-<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=sana-zarei&theme=discord&rank=-C,-B,-?&no-bg=true&margin-w=20&margin-h=20&column=2" align="center"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguebarbell&count_private=true&show_icons=true&theme=chartreuse-dark" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-zarei&layout=compact&theme=chartreuse-dark&langs_count=8" />
-
----
+<table align="center">
+  <tr>
+    <td>
+      <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=sana-zarei&column=2"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sana-zarei&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-zarei&layout=compact&theme=chartreuse-dark&langs_count=8"/>
+    </td>
+  </tr>
+</table>
 
 ### 📌 My Social
 
