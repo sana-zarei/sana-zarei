@@ -92,7 +92,6 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <details>    
   <summary><b>⚡Github Stats</b></summary>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" alt="Coding gif">
-
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sana-zarei&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-zarei&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
@@ -100,7 +99,6 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <details>    
   <summary><b>☄️ Github Streaks</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sana-zarei&hide_border=true" alt="GitHub Streaks" />
 </details>
