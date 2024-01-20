@@ -57,8 +57,8 @@ I am a Back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <a href="https://github.com/sana-zarei/Personal-Restaurant" title="Personal-Restaurant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sana-zarei&repo=Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff" alt="Personal-Restaurant Repo" width="400" height="140" />
   </a>
-  <a href="https://github.com/sana-zarei/Personal-Restaurant" title="Personal-Restaurant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sana-zarei&repo=Personal-Restaurant&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff" alt="Personal-Restaurant Repo" width="400" height="140" />
+  <a href="https://github.com/sana-zarei/Resume-1" title="Resume">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sana-zarei&repo=Resume-1&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=ffffff" alt="Resume-1" width="400" height="140" />
   </a>
 </div>
 
