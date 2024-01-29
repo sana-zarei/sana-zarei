@@ -4,7 +4,7 @@
 
 ### 👨🏻‍🦱 About Me 
 ![](https://visitor-badge.glitch.me/badge?page_id=sana-zarei.sana-zarei&style=flat-square&color=0088cc)
-I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer gif"> from Iran. 
+I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer gif"> From Iran. 
 
 - 🔭 As a Back-End developer, I create web applications.
 - ⚡ In my free time, I solve problems on [sana-zarei](https://sanazarei.pythonanywhere.com/ "sana-zarei") and read tech articles.
